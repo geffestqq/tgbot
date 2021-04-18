@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Geffest\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Geffest\\.nuget\\packages"
+    ]
+  }
+}
